@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Downloads\MaquinaDePilha\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.exe.config
+C:\Users\dougl\Downloads\MaquinaDePilha\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.exe
+C:\Users\dougl\Downloads\MaquinaDePilha\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.exe.config
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.exe
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.pdb
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\obj\Debug\MaquinaDePilha.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.exe
+C:\Users\dougl\Documents\Visual Studio 2015\Projects\MaquinaDePilha\MaquinaDePilha\bin\Debug\MaquinaDePilha.pdb
